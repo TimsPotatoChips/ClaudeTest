@@ -1,0 +1,9 @@
+salary:
+  value: 5000
+  unit: USD
+rent:
+  value: 1500
+  unit: USD
+groceries:
+  value: 400
+  unit: USD

@@ -1,0 +1,5 @@
+stages:
+  - parameters
+  - printAll
+
+parameters: my_budget
