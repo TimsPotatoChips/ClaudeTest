@@ -7,3 +7,31 @@ rent:
 groceries:
   value: 400
   unit: USD
+
+retirement:
+  current_age: 35
+  retirement_age: 65
+  current_savings: 85000
+  annual_salary: 120000
+  salary_growth_rate: 0.03
+  savings_rate: 0.15
+  inflation_rate: 0.025
+  portfolio:
+    stocks_allocation: 0.70
+    bonds_allocation: 0.30
+  stock_returns:
+    - probability: 0.15
+      return: -0.25
+    - probability: 0.20
+      return: -0.10
+    - probability: 0.40
+      return: 0.08
+    - probability: 0.25
+      return: 0.18
+  bond_returns:
+    - probability: 0.20
+      return: 0.00
+    - probability: 0.50
+      return: 0.03
+    - probability: 0.30
+      return: 0.06
