@@ -1,5 +1,7 @@
 stages:
   - parameters
+  - annual_stock_return
+  - annual_bond_return
   - printAll
 
 parameters: my_budget
